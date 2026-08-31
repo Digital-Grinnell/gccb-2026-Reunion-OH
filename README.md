@@ -2,6 +2,8 @@
 
 Deployed automatically to: https://witty-moss-0b6c89410.7.azurestaticapps.net. 
 
+Original recordings and derivatives by Mariposa can be found in OneDrive at https://grinco.sharepoint.com/sites/LibraryDepartments/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=4MC2yB&CID=3ea736a2%2Dd0d8%2D0000%2D2597%2D5c051e6f8539&FolderCTID=0x012000DD5469BFF843F141A9F0E44AFC91FBA1&id=%2Fsites%2FLibraryDepartments%2FShared%20Documents%2FDigital%20Studio%2FOral%20histories.    
+
 
 # Digital-Grinnell/collectionbuilder-csv
 
